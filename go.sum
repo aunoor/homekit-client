@@ -45,9 +45,9 @@ github.com/armon/go-metrics v0.0.0-20180917152333-f0300d1749da/go.mod h1:Q73ZrmV
 github.com/armon/go-radix v0.0.0-20180808171621-7fddfc383310/go.mod h1:ufUuZ+zHj4x4TnLV4JWEpy2hxWSpsRywHrMgIH9cCH8=
 github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kBD4zp0CCIs=
 github.com/bketelsen/crypt v0.0.4/go.mod h1:aI6NrJ0pMGgvZKL1iVgXLnfIFJtfV+bKCoqOes/6LfM=
-github.com/brutella/dnssd v1.2.0/go.mod h1:FpJqlQ8+XU6w1vbnG1zJiQPTRE5fvQIRdrcBojMVuuQ=
-github.com/brutella/hc v1.2.4 h1:dQjLi4bjUbKG4436N7WXH6W7iHQgfnCceE9DxyOuSnA=
-github.com/brutella/hc v1.2.4/go.mod h1:TPPdombm3gA/2fsSON6ct2km7z7Vi8lQNqE+fzuDHQM=
+github.com/brutella/dnssd v1.2.1/go.mod h1:FpJqlQ8+XU6w1vbnG1zJiQPTRE5fvQIRdrcBojMVuuQ=
+github.com/brutella/hc v1.2.5 h1:P1tHqJtrGngob6Lv5E7RVGlLcdo54X/03Gseo5+soVw=
+github.com/brutella/hc v1.2.5/go.mod h1:kluioDmG4z8OweN0boeTf08696sH8odlhPDdq3gwuZw=
 github.com/cenkalti/backoff v2.2.1+incompatible h1:tNowT99t7UNflLxfYYSlKYsBpXdEet03Pg2g16Swow4=
 github.com/cenkalti/backoff v2.2.1+incompatible/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
