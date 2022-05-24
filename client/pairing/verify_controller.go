@@ -69,7 +69,7 @@ func (v *VerifyClientController) Handle(in util.Container) (util.Container, erro
 // The request contains the client public key and sequence set to VerifyStepStartRequest.
 func (v *VerifyClientController) InitialKeyVerifyRequest() io.Reader {
 	out := util.NewTLV8Container()
-	out.SetByte(pair.TagPairingMethod, 0)
+	//out.SetByte(pair.TagPairingMethod, 0)
 	out.SetByte(pair.TagSequence, pair.VerifyStepStartRequest.Byte())
 	out.SetBytes(pair.TagPublicKey, v.session.PublicKey[:])
 
